@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F7F7F7 !important;
+}
+
+.fb {
+    height: 90px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background-color: #4c66a4;
+}
+
+.fb-name {
+    margin-top: 20px;
+    margin-left: 240px;
+}
+.email-pass {
+    margin-top: -48px;
+    padding-top: -20%;
+    margin-left: 850px;
+    margin-bottom: 5px;
+}
+.login{
+    background-color: #395187;
+}
+
+.forgot-password {
+    margin-left: 1032px;
+    margin-top: -1px;
+    color: aliceblue;
+    font-size: medium;
+    
+}
+.design{
+    margin-left: 230px;
+    color:  #395187;
+}
+.connection{
+    margin-left: 20px;
+}
+.login-form{
+    margin-top: -295px;
+    padding-top: -20%;
+    margin-left: 845px;
+    font-family:  Arial;
+    font-size: large;
+    font-weight: 100;
+}
+.sign-up{
+    margin-left: 845px;
+}
+.name, .name-two{
+    width: 180px ;
+    height: 30px;
+    font-size: larger;
+}
+.mobile, .new{
+    font-size: large;
+    height: 30px;
+    width: 372px;
+    margin-top: 10px;
+}
+.bd{
+    font-size: large;
+}
+.querry{
+    color: darkblue;
+    margin-left: 210px;
+    margin-top: -38px;
+}
+.male, .female{
+      font-family:  Arial;
+      font-size: large;
+}
+.up{
+    border: none;
+    width: 130px;
+    color: #fff;
+    background-color: #49d849;
+    font-size: large;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.leng, .interest{
+    margin-left: 190px;
+    font-family: Arial;
+    font-size: large;
+}
